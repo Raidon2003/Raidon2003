@@ -7,7 +7,6 @@
 - ⚡ Fun fact: ...
 
 
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&&section=header&text=HI%20WELCOME&fontSize=90&fontAlign=50&fontAlignY=30&fontColor=000000&desc=I%20am%20Zexin_LEI&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
@@ -27,6 +26,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turtle20241&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Turtle20241)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Turtle20241-blue?logo=github" alt="GitHub Badge" />
+  <img src="https://img.shields.io/badge/WeChat-13760962030-07C160?logo=wechat" alt="WeChat Badge" />
+  <img src="https://img.shields.io/badge/Outlook-Zexin_LEIoutlook.com-0078D4?logo=microsoft-outlook&logoColor=white" alt="Outlook Badge" />
+  <img src="https://img.shields.io/badge/Phone-137--6096--2030-blue?logo=telephone&logoColor=white" alt="Phone Badge" />
+</p>
 
 
 
