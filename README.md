@@ -35,5 +35,10 @@
 </p>
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,pycharm,py,github,latex,gmail,instagram,twitter" />
+  </a>
+</p>
 
-
+<img src="https://komarev.com/ghpvc/?username=Turtle20241&abbreviated=true" />
