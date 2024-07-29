@@ -6,8 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 <p align="center">
@@ -52,5 +50,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=Turtle20241&abbreviated=true" />
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Turtle20241)](https://github.com/anuraghazra/github-readme-stats)
