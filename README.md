@@ -24,7 +24,7 @@
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Turtle20241&theme=github-compact&hide_border=true&area=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turtle20241&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats-eight-gamma-40.vercel.app/api/top-langs/?username=Turtle20241&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
 [![Top Langs](https://github-readme-stats-eight-gamma-40.vercel.app/api/top-langs/?username=Turtle20241)](https://github.com/anuraghazra/github-readme-stats)
 
