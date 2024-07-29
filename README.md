@@ -50,4 +50,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=Turtle20241&abbreviated=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Turtle20241)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Turtle20241)](https://github.com/anuraghazra/github-readme-stats)
