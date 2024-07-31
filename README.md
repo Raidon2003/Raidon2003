@@ -26,8 +26,7 @@
 
 ![Top Langs](https://github-readme-stats-eight-gamma-40.vercel.app/api/top-langs/?username=Turtle20241&size_weight=0.5&count_weight=0.5)
 
-[![Harlok's WakaTime stats](https://github-readme-stats-eight-gamma-40.vercel.app/api/wakatime?username=Turtle20241)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Turtle20241&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Turtle20241-blue?logo=github" alt="GitHub Badge" />
