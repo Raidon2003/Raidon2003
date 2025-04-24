@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=30&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&&section=header&text=HI%20WELCOME&fontSize=90&fontAlign=50&fontAlignY=30&fontColor=000000&desc=I%20am%20Zexin_LEI&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
