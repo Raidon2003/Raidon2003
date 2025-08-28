@@ -6,7 +6,7 @@
 <!-- Welcome to my Github profile page! -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile+page!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
   </a>
 </p>
 
