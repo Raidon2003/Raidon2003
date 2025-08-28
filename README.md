@@ -6,7 +6,7 @@
 <!-- Welcome to my Github profile page! -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile+page!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile+page!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,17 +27,16 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raidon2003&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="Top Langs" />
 </p>
 
-
-
+<!-- Skill Icons -->
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Turtle20241-blue?logo=github" alt="GitHub Badge" />
-  <img src="https://img.shields.io/badge/WeChat-13760962030-07C160?logo=wechat" alt="WeChat Badge" />
-  <img src="https://img.shields.io/badge/Outlook-Zexin_LEIoutlook.com-0078D4?logo=microsoft-outlook&logoColor=white" alt="Outlook Badge" />
-  <img src="https://img.shields.io/badge/Phone-137--6096--2030-blue?logo=telephone&logoColor=white" alt="Phone Badge" />
-  <img src="https://komarev.com/ghpvc/?username=Turtle20241&abbreviated=true" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,latex,vscode,pycharm,windows,anaconda,git,github,docker&theme=light" />
 </p>
 
-
-
-
-
+<!-- Badges Section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Raidon2003-blue?logo=github" alt="GitHub Badge" />
+  <a href="https://wakatime.com/@4a8d898e-f051-48a5-acc7-e196e8b63944"><img src="https://wakatime.com/badge/user/4a8d898e-f051-48a5-acc7-e196e8b63944.svg" alt="Total time coded since Jul 25 2024" /></a>
+  <img src="https://img.shields.io/badge/WeChat&Tel-13760962030-07C160?logo=wechat" alt="WeChat Badge" />
+  <img src="https://img.shields.io/badge/Outlook-Zexin__LEI%40outlook.com-0078D4?logo=microsoft-outlook&logoColor=white" alt="Outlook Badge" />
+  <img src="https://komarev.com/ghpvc/?username=Turtle20241&abbreviated=true" />
+</p>
