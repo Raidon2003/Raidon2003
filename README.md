@@ -43,9 +43,9 @@
 
 <!-- Certificates Section -->
 <p align="center">
-  <img src="certificates/nv-cert.png" width="500" alt="NVIDIA Certificate" />
-  <img src="certificates/hugging-face-agents-course.png" width="500" alt="Hugging Face Agents Course" />
-  <img src="certificates/Completed%205-Day%20Gen%20AI%20Intensive.png" width="500" alt="5-Day Gen AI Intensive" />
+  <img src="certificates/nv-cert.png" width="400" alt="NVIDIA Certificate" />
+  <img src="certificates/hugging-face-agents-course.png" width="400" alt="Hugging Face Agents Course" />
+  <img src="certificates/Completed%205-Day%20Gen%20AI%20Intensive.png" width="400" alt="5-Day Gen AI Intensive" />
 </p>
 
 
