@@ -21,7 +21,7 @@
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Raidon2003&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Raidon2003&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 ![Top Langs](https://github-readme-stats-eight-gamma-40.vercel.app/api/top-langs/?username=Raidon2003&size_weight=0.5&count_weight=0.5)
 
