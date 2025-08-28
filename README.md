@@ -40,3 +40,14 @@
   <img src="https://img.shields.io/badge/Outlook-Zexin__LEI%40outlook.com-0078D4?logo=microsoft-outlook&logoColor=white" alt="Outlook Badge" />
   <img src="https://komarev.com/ghpvc/?username=Turtle20241&abbreviated=true" />
 </p>
+
+<!-- Certificates Section -->
+<p align="center">
+  <img src="certificates/nv-cert.png" width="500" alt="NVIDIA Certificate" />
+  <img src="certificates/hugging-face-agents-course.png" width="500" alt="Hugging Face Agents Course" />
+  <img src="certificates/Completed%205-Day%20Gen%20AI%20Intensive.png" width="500" alt="5-Day Gen AI Intensive" />
+</p>
+
+
+
+
