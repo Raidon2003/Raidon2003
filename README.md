@@ -21,27 +21,23 @@
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Raidon2003&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Raidon2003&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- WakaTime + Top Languages -->
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=Turtle20241&theme=transparent&hide_border=true&layout=compact&langs_count=22" alt="WakaTime Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raidon2003&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="Top Langs" />
+</p>
 
-![Top Langs](https://github-readme-stats-eight-gamma-40.vercel.app/api/top-langs/?username=Raidon2003&size_weight=0.5&count_weight=0.5)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Raidon2003&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Turtle20241-blue?logo=github" alt="GitHub Badge" />
   <img src="https://img.shields.io/badge/WeChat-13760962030-07C160?logo=wechat" alt="WeChat Badge" />
   <img src="https://img.shields.io/badge/Outlook-Zexin_LEIoutlook.com-0078D4?logo=microsoft-outlook&logoColor=white" alt="Outlook Badge" />
   <img src="https://img.shields.io/badge/Phone-137--6096--2030-blue?logo=telephone&logoColor=white" alt="Phone Badge" />
-</p>
-
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=300&&section=footer&text={TITLE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+  <img src="https://komarev.com/ghpvc/?username=Turtle20241&abbreviated=true" />
 </p>
 
 
 
 
-<img src="https://komarev.com/ghpvc/?username=Turtle20241&abbreviated=true" />
 
