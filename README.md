@@ -46,6 +46,7 @@
   <img src="certificates/nv-cert.png" width="400" alt="NVIDIA Certificate" />
   <img src="certificates/hugging-face-agents-course.png" width="400" alt="Hugging Face Agents Course" />
   <img src="certificates/Completed%205-Day%20Gen%20AI%20Intensive.png" width="400" alt="5-Day Gen AI Intensive" />
+  <img src="certificates/Course Completion Certificate.png" width="400" alt="Course Completion Certificate" />
 </p>
 
 
