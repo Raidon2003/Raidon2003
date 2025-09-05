@@ -23,7 +23,7 @@
 
 <!-- WakaTime + Top Languages -->
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=Turtle20241&theme=transparent&hide_border=true&layout=compact&langs_count=22" alt="WakaTime Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=Raidon2003&theme=transparent&hide_border=true&layout=compact&langs_count=22" alt="WakaTime Stats" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raidon2003&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="Top Langs" />
 </p>
 
